@@ -1,2 +1,2 @@
-# getuserdata-using-inptu-
+# getuserdata
 using input() and formatted-string -(f)
